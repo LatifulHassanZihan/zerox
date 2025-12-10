@@ -332,6 +332,7 @@ echo -e "\033[1;38;5;201m╚═════════════════�
 echo ""
 echo -e "\033[1;38;5;51m👤 Name:\033[0m     LATIFUL HASSAN ZIHAN"
 echo -e "\033[1;38;5;51m📱 Telegram:\033[0m @ALWAYSZIHAN"
+echo -e "\033[1;38;5;51m📶 Telegram:\033[0m @PAIDFREETOOLS"
 echo -e "\033[1;38;5;51m🚀 Project:\033[0m  ZEROX 4.5 Theme Manager"
 echo -e "\033[1;38;5;51m📅 Version:\033[0m  4.5.0"
 echo -e "\033[1;38;5;51m💻 Platform:\033[0m Termux Android"
