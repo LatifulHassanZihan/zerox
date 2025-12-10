@@ -61,7 +61,7 @@
 
 ```bash
 # Download and install
-curl -O https://raw.githubusercontent.com/yourusername/zerox/main/install.sh
+curl -O https://raw.githubusercontent.com/latifulhassanzihan/zerox/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
